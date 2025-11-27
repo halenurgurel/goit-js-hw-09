@@ -22,7 +22,7 @@ label {
 
 input {
   font-size: 16px;
-  border-color: #808080;
+  border: 1px solid #808080;
   border-radius: 4px;
   height: 40px;
   padding-left: 16px;
